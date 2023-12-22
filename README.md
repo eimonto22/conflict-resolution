@@ -1,1 +1,1 @@
-# conflict-resolution
+# Conflict-resolution
